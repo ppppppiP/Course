@@ -1,0 +1,15 @@
+C:\Users\artem\source\repos\Приоритеты\Приоритеты\obj\Debug\net7.0\Приоритеты.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\Приоритеты\Приоритеты\obj\Debug\net7.0\Приоритеты.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\Приоритеты\Приоритеты\obj\Debug\net7.0\Приоритеты.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\Приоритеты\Приоритеты\obj\Debug\net7.0\Приоритеты.AssemblyInfo.cs
+C:\Users\artem\source\repos\Приоритеты\Приоритеты\obj\Debug\net7.0\Приоритеты.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\Приоритеты\Приоритеты\bin\Debug\net7.0\Приоритеты.exe
+C:\Users\artem\source\repos\Приоритеты\Приоритеты\bin\Debug\net7.0\Приоритеты.deps.json
+C:\Users\artem\source\repos\Приоритеты\Приоритеты\bin\Debug\net7.0\Приоритеты.runtimeconfig.json
+C:\Users\artem\source\repos\Приоритеты\Приоритеты\bin\Debug\net7.0\Приоритеты.dll
+C:\Users\artem\source\repos\Приоритеты\Приоритеты\bin\Debug\net7.0\Приоритеты.pdb
+C:\Users\artem\source\repos\Приоритеты\Приоритеты\obj\Debug\net7.0\Приоритеты.dll
+C:\Users\artem\source\repos\Приоритеты\Приоритеты\obj\Debug\net7.0\refint\Приоритеты.dll
+C:\Users\artem\source\repos\Приоритеты\Приоритеты\obj\Debug\net7.0\Приоритеты.pdb
+C:\Users\artem\source\repos\Приоритеты\Приоритеты\obj\Debug\net7.0\Приоритеты.genruntimeconfig.cache
+C:\Users\artem\source\repos\Приоритеты\Приоритеты\obj\Debug\net7.0\ref\Приоритеты.dll
